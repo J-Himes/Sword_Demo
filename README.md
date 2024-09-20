@@ -1,4 +1,4 @@
-# Sword_Demo
+# sword-demo
  
 This is a demonstration project used to illustrate sword gameplay in a world with various biomes.
 
